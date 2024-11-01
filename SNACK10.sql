@@ -1,0 +1,2 @@
+SELECT COUNT(*) AS DebtCount
+FROM SKU_DATA

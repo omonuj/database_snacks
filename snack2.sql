@@ -1,0 +1,3 @@
+SELECT *
+FROM SKU_DATA
+WHERE buyer LIKE "%PETE%";
